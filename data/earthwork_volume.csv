@@ -1,0 +1,17 @@
+# ACTIVE DATASET A: station (m), cross-section area (m^2)
+# Expected volume with Simpson 1/3 = 1066.6667 m^3 (exact = 3200/3 m^3)
+0,0
+10,30
+20,40
+30,30
+40,0
+
+# DATASET B (commented out): larger road section
+# Expected volume with Simpson 1/3 = 3600.0000 m^3
+# 0,0
+# 10,50
+# 20,80
+# 30,90
+# 40,80
+# 50,50
+# 60,0

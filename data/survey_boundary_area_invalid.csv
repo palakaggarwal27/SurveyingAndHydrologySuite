@@ -1,0 +1,15 @@
+# ACTIVE DATASET A: invalid unordered survey points
+# Expected result: rejected because x values are not strictly increasing
+0,0
+2,12
+1,16
+6,12
+8,0
+
+# DATASET B (commented out): valid replacement
+# Expected result with Simpson 1/3 = 85.3333 m^2
+# 0,0
+# 2,12
+# 4,16
+# 6,12
+# 8,0

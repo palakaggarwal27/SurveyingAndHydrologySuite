@@ -1,0 +1,19 @@
+# ACTIVE DATASET A: irregular survey boundary
+# Expected result with the trapezoidal rule = 378.6667 m^2
+0,0
+10,3.2
+20,5.1
+30,6.4
+40,7.0
+50,6.2
+60,5.5
+70,3.8
+80,0
+
+# DATASET B (commented out): regular survey boundary
+# Expected result with Simpson 1/3 = 85.3333 m^2
+# 0,0
+# 2,12
+# 4,16
+# 6,12
+# 8,0

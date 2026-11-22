@@ -1,0 +1,61 @@
+﻿# ==========================================
+# Generated Reports & User Outputs
+# ==========================================
+report.csv
+report.txt
+*.report.*
+reports/
+output/
+
+# ==========================================
+# Compiled Binaries & Executables
+# ==========================================
+*.exe
+*.out
+*.app
+suite.exe
+suite
+
+# ==========================================
+# Compiled Object Files & Libraries
+# ==========================================
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# ==========================================
+# Debug & Intermediate Files
+# ==========================================
+*.pdb
+*.ilk
+*.idb
+*.dSYM/
+
+# ==========================================
+# Build Directories
+# ==========================================
+build/
+bin/
+out/
+cmake-build-*/
+.cache/
+
+# ==========================================
+# IDE & Editor Specific Files
+# ==========================================
+.vscode/
+.vs/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+Thumbs.db
+Desktop.ini
+.DS_Store

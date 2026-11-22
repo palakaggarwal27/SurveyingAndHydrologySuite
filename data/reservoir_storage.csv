@@ -1,0 +1,17 @@
+# ACTIVE DATASET A: stage (m), water surface area (m^2)
+# Expected storage with Simpson 1/3 = 72.0000 m^3 (exact = 72 m^3)
+0,0
+1,1
+2,4
+3,9
+4,16
+5,25
+6,36
+
+# DATASET B (commented out): doubled area relationship
+# Expected storage with Simpson 1/3 = 128.0000 m^3
+# 0,0
+# 1,2
+# 2,8
+# 3,18
+# 4,32

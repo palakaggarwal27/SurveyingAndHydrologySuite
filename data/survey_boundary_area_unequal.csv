@@ -1,0 +1,17 @@
+# ACTIVE DATASET A: unequal station spacing
+# Only the trapezoidal rule applies. Expected result = 204.0000 m^2
+0,0
+5,2.5
+12,5.0
+20,6.5
+31,6.0
+40,3.5
+48,0
+
+# DATASET B (commented out): equal spacing, Simpson 1/3 applies
+# Expected result with Simpson 1/3 = 85.3333 m^2
+# 0,0
+# 2,12
+# 4,16
+# 6,12
+# 8,0

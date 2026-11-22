@@ -1,0 +1,15 @@
+# ACTIVE DATASET A: river distance (m), depth (m)
+# Expected cross-sectional area with Simpson 1/3 = 12.0000 m^2
+0,0
+2,1.5
+4,2.4
+6,1.8
+8,0
+
+# DATASET B (commented out): parabolic depth profile
+# Expected cross-sectional area with Simpson 1/3 = 21.3333 m^2
+# 0,0
+# 2,3
+# 4,4
+# 6,3
+# 8,0
